@@ -52,12 +52,6 @@ internship-project/
 ├── logo etc..#image
 └── README.md
 
-
-## 📸 Screenshots
-*(Add screenshots if available)*
-
-
-
 ## 🧠 What I Learned
 - Writing clean HTML structure
 - Styling with Bootstrap utilities and components
