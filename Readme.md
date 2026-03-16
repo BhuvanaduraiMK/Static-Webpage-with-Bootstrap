@@ -56,8 +56,6 @@ internship-project/
 ## 📸 Screenshots
 *(Add screenshots if available)*
 
-## 🚀 Live Demo
-[file:///C:/Users/bhuvi/OneDrive/Documents/Desktop/VELOZION/Internship-Project/index.html](#)  
 
 
 ## 🧠 What I Learned
